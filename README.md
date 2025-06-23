@@ -1,5 +1,3 @@
-Generative Adversarial Networks and AI Ethics 
-
 ## Student Info:
 - Name: Nithin Lakide
 - Student ID: 700764562
